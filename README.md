@@ -1,11 +1,9 @@
-### Hi, I'm Alexsandro Web development student! 👋
+### Oi, sou Alexsandro, sou desenvolvedor fullstack! 👋
 
-- 👀 I’m interested in studing Web Develop
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on everythig i could
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: alex_ferraz2@hotmail.com
-- 😄 Pronouns: He
+- 👀 Graduado em jogos digitais
+- 🌱 Aprimorando minhas habilidades ReactJS, Node.js e MongoDB.
+- 📫 Como entrar em contato comigo: alex_ferraz2@hotmail.com
+- 😄 Todos os meus projetos estão no Github [Alexferraz](https://github.com/Alexferraz2)
 
 ## 
 
